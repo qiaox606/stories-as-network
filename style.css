@@ -38,6 +38,7 @@ h1{
   text-align: center;
   position:fixed;
   left:0;
+  height:100%;
   writing-mode: vertical-rl;
   text-orientation: mixed;
 }
@@ -59,6 +60,7 @@ a:link {
 
 a:hover {
   text-decoration: none;
+  font-size: 120%;
 }
 
 a:visited{
